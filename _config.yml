@@ -1,46 +1,65 @@
 
 # Personal info
 name: Niyanta Pandey
-title: Associate Quality Assurance Engineer
+title: Associate Quality Assurance Engineer 
 email: niyantapandey@gmail.com
+resume link: https://docs.google.com/document/d/1bSI676zOJydcRIrIVVe6wLNppoJuyRpvHHGHzrZe7VA/edit
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  niyanta111
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/niyanta-pandey-1b5859aa/
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+ QA engineer experienced  in software development processes and optimal testing strategies. Helps teams produce better products by offering in-depth quality assurance support. Open and clear communicator with good multitasking skills, organized nature and strong attention to detail.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+SKILLS:
+- SQL
+- Automation and Scripting using Python
+- QA tools and methodologies
+- Data Research
+
 
 # Projects Section
-# projects_title: Projects
+Project link : https://www.laudio.com/
 
-# Experience Section
-# experience_title: Experience
+WORK EXPERIENCE: 
+Associate Quality Assurance Engineer - Leapfrog Technology Inc, Dillibazar, Kathmandu (Apr, 2019 - Present)
+1. Develop user stories/ wireframes (both functional and system operational requirements), maintain product backlog and work with clients on elaboration and ambiguity resolution.
+2. Debug code and locate root causes of problems by reviewing configuration files and logs.
+3. Write and optimize test cases to enhance the quality of software testing with consistent, thorough approaches.
+4. Produce and maintain consistent technical documentation using Google Sheets and Confluence and use JIRA as a bug reporting tool.
+5. Worked as a proxy project manager for six months in the U.S healthcare project.
+6. Gathered data on integration issues and vulnerabilities and reported all findings, including improvement recommendations.
+7. Effectively interact with analytics and infrastructure departments regarding software defects and bugs, working closely to develop innovative solutions.
+8. Compile and write training materials and conduct knowledge sharing sessions on the quality assurance process in a data-driven project.
+9. Maintain accuracy, completeness and security for medical records and health information.
+10. Translate business requirements into user stories and validate functional Requirement specifications in accordance with approved IT Architecture.
+ 
 
-# Education Section
-# educaton_title: Education
+EDUCATION:
+B. Tech in Electronics and Communication Engineering - Mody University, Jaipur, Rajasthan (2014-2018)
+Completed Major Project in EEG using Neural Networks in AI
+Minor project
+10+2 in Science (Higher Secondary Education Board) -  Galaxy Public School, Gyaneshwor, Kathmandu 
+SLC - Paragon Public School, Tilganga, Kathmandu 
+ 
+INTERNSHIP:
+Software Engineering Intern - Accenture, Bangalore, India (Jun-2018 - Nov-2018)
+Trained in basics of HTML/CSS, Python, JavaScript and SQL
+Learned soft-skills and management skills 
+Learnt about Agile Methodologies
+             
+  HOBBIES:
+ Singing, travelling and sketching
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
