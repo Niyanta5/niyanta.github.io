@@ -24,8 +24,8 @@ youtube_username: niyantapandey
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-QA engineer experienced  in software development processes and optimal testing strategies. Helps teams produce better products by offering in-depth quality assurance support. Open and clear communicator with good multitasking skills, organized nature and strong attention to detail.
-# Projects Section
+  QA engineer experienced  in software development processes and optimal testing strategies. Helps teams produce better products by offering in-depth quality assurance support. Open and clear communicator with good multitasking skills, organized nature and strong attention to detail.
+  # Projects Section
 # projects_title: Projects
 
 # Experience Section
